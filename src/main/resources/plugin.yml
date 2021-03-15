@@ -1,11 +1,9 @@
-name: СhunkTagLimiter
+name: ChunkTagLimiter
 version: ${project.version}
-main: ua.lokha.сhunktaglimiter.Main
+main: ua.lokha.chunktaglimiter.Main
 
 # Кодил это? Впиши себя сам
 authors: [lokha]
-
-softdepend: [ProtocolLib]
 
 commands:
   chunktaglimiter:
